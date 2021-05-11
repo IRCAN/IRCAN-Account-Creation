@@ -1,6 +1,6 @@
 
 # IRCAN-Account-Creation
-IRCAN-Account-Creation is a web app to creat and to manage IRCAN accounts.
+IRCAN-Account-Creation is a web app to create and to manage IRCAN accounts.
 
 ## Versions
 ![Node 8](https://img.shields.io/badge/node-8.9.x-green.svg)
